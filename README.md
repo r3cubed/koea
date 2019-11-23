@@ -12,7 +12,13 @@ During our meetings, we do
 * go through examples
 * have discussions with other members and a session leader
 
-
+Week 1-4, python programming
+Week 05, plotting using matplotlib library
+Week 06, Git,Tensorflow, scikit-learn, and Pytorch installation
+Week 07, Keras image classification
+Week 08, Keras autoencoder
+Week 09, Keras and Pytorch regression
+Week 10, Pytorch image classification
 
 If you want to join in our meetings, please contact me.
 
