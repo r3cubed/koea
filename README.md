@@ -24,4 +24,5 @@ If you want to join in our meetings, please contact the current coordinator, man
 Our meetings are in the Memorial City Mall area.
 Thanks for your interest and participation.
 
-2019
+Happy Learning!
+December 2019
