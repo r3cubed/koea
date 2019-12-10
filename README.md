@@ -23,3 +23,5 @@ Week 10, Pytorch image classification
 If you want to join in our meetings, please contact the current coordinator, mantophs@gmail.com.
 Thanks for your interest and participation.
 
+Happy Learning!
+2019
