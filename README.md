@@ -21,5 +21,7 @@ Week 09, Keras and Pytorch regression
 Week 10, Pytorch image classification
 
 If you want to join in our meetings, please contact the current coordinator, mantophs@gmail.com.
+Our meetings are in the Memorial City Mall area.
 Thanks for your interest and participation.
 
+2019
