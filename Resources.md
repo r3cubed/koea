@@ -24,6 +24,7 @@ During our meetings, we do
 * go through examples
 * have discussions with other members and a session leader
 
+So far, we have covered
 * Week 1-4, python programming
 * Week 05, plotting using matplotlib library
 * Week 06, Git,Tensorflow, scikit-learn, and Pytorch installation
@@ -32,6 +33,9 @@ During our meetings, we do
 * Week 09, Keras regression
 * Week 10, Pytorch regression
 * Week 11, Pytorch image classification
+
+When you join in our meetings, please feel free to start with any material you can learn comfortably.
+If you get stuck and can not move on, you can always go back to one week back.
 
 If you want to join in our meetings, please contact the current coordinator, mantophs@gmail.com.
 Our meetings are in the Memorial City Mall area.
