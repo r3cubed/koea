@@ -3,10 +3,10 @@
 Conda cheat sheet 
 * https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
 
-When we want to install a specific vesion of package,
+When we want to install a specific vesion of package, use 
 * conda install <package_name>=<version>=<build_string>
 
-For example, find available pytorch builds using
+For example, you need to find available pytorch builds using
 * conda search -c pytorch pytorch  
 
 Then, install using

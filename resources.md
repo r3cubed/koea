@@ -8,14 +8,14 @@ Before meetings, group members do
 * watch online lectures on EDX and/or Coursera on their own
 * understand and practice previous session's examples
 
-Our python programming textbook is 
+Our python programming materials are
 * https://greenteapress.com/wp/think-python-2e/
+* https://www.learnpython.org/
 
 Textbooks for machine learning are
-* Hands-on machine learning with Scikit-learn, Keras & Tensorflow 
+* Hands-on machine learning with Scikit-learn, Keras & Tensorflow by Aurélien Géron
 * Natural language processing with PyTorch by Delip Rao
 * Generateive Deep learning by David Foster
-* Practical time series analysis by Aileen Nielsen
 
 We are following pytorch tutorials in 
 * https://pytorch.org/tutorials/
@@ -25,6 +25,17 @@ For keras, we refer to
 
 Pytorch examples are 
 * https://github.com/pytorch/examples/
+
+Basic and intermediate online courses
+* Introduction to Python for Data Science
+* Coursera Deep Learning Specialization
+
+Advanced online courses
+* EDX Deep Learning with Python and PyTorch 
+* EDX Natural Language Processing
+* Coursera Reinforcement Learning Specialization
+* Coursera Sequence Models for Time Series and Natural Language Processing
+
 
 During our meetings, we do
 * go through examples
