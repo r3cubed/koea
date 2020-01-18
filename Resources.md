@@ -11,6 +11,12 @@ Before meetings, group members do
 Our python programming textbook is 
 * https://greenteapress.com/wp/think-python-2e/
 
+Textbooks for machine learning are
+* Hands-on machine learning with Scikit-learn, Keras & Tensorflow 
+* Natural language processing with PyTorch by Delip Rao
+* Generateive Deep learning by David Foster
+* Practical time series analysis by Aileen Nielsen
+
 We are following pytorch tutorials in 
 * https://pytorch.org/tutorials/
 
