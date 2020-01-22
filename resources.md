@@ -20,12 +20,13 @@ Textbooks for machine learning are
 We are following pytorch tutorials in 
 * https://pytorch.org/tutorials/
 
-For keras, we refer to
+For keras, please refer to
 * https://keras.io/
 
 Pytorch examples are 
 * https://github.com/pytorch/examples/
 
+# Online courses
 Basic and intermediate online courses
 * Introduction to Python for Data Science
 * Coursera Deep Learning Specialization
@@ -36,20 +37,23 @@ Advanced online courses
 * Coursera Reinforcement Learning Specialization
 * Coursera Sequence Models for Time Series and Natural Language Processing
 
-
 During our meetings, we do
 * go through examples
 * have discussions with other members and a session leader
 
+#  
 So far, we have covered
-* Week 1-4, python programming
-* Week 05, plotting using matplotlib library
-* Week 06, Git,Tensorflow, scikit-learn, and Pytorch installation
-* Week 07, Keras image classification
-* Week 08, Keras autoencoder
-* Week 09, Keras regression
-* Week 10, Pytorch regression
-* Week 11, Pytorch image classification
+* Week   1, List, Set, Tuples, Function
+* Week   2, Dictionary, String
+* Week   3, Dictionary, Function
+* Week   4, Module, Class 
+* Week   5, plotting using matplotlib library
+* Week   6, Git,Tensorflow, scikit-learn, and Pytorch installation
+* Week   7, Keras image classification
+* Week   8, Keras autoencoder
+* Week   9, Keras regression
+* Week  10, Pytorch regression
+* Week  11, Pytorch image classification
 
 When you join in our meetings, please feel free to start with any material you can learn comfortably.
 If you get stuck and can not move on, you can always go back to one week back.

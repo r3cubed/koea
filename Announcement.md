@@ -1,6 +1,6 @@
 ## Update on January 18, 2020
-Our study group started on January 4, 2020. 
-We decided to add pytorch into our toolsets for machine learning projects.
+Our study group resumed our meetings on January 4, 2020. 
+We decided to add pytorch into our tool sets for machine learning projects.
 
 In this year, our meeting time alternates between Saturday morning and Thursday evening.
 For example, next week we meet on Thursday (January 23, 2020) from 7:30 PM to 9 PM.
@@ -11,7 +11,6 @@ This will be udpated as we make progress and as needed.
 
 
 ## Update on October 27, 2019
-
 We started our machine learning and data science journey about two months ago.
 So far, our focus has been python programming language and understanding grammars.
 There are much more than we have covered. But I've endeavored to share basic survival skills: 
