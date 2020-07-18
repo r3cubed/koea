@@ -12,8 +12,8 @@ During our meetings, we do
 * go through examples
 * have discussions with other members and a session leader
 
-If you want to join in our meetings, please contact the current coordinator, mantophs@gmail.com.
-Our meetings are in the Memorial City Mall area.
+If you want to join in our meetings, please contact the current coordinator.
+Our meetings are 100% online from July 2020 due to the pandemic.
 Thanks for your interest and participation.
 
 Happy Learning!
